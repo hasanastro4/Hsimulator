@@ -1,0 +1,3 @@
+# untrack the following file or folder
+__pycache__
+.ipynb_checkpoints/
